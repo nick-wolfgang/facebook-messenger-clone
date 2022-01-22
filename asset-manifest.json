@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/facebook-messenger-clone/static/css/main.f58eb0d7.css",
+    "main.js": "/facebook-messenger-clone/static/js/main.2565dc8b.js",
+    "static/js/787.8a5f59be.chunk.js": "/facebook-messenger-clone/static/js/787.8a5f59be.chunk.js",
+    "static/media/fm2.png": "/facebook-messenger-clone/static/media/fm2.98f0308f316317616b7e.png",
+    "index.html": "/facebook-messenger-clone/index.html",
+    "main.f58eb0d7.css.map": "/facebook-messenger-clone/static/css/main.f58eb0d7.css.map",
+    "main.2565dc8b.js.map": "/facebook-messenger-clone/static/js/main.2565dc8b.js.map",
+    "787.8a5f59be.chunk.js.map": "/facebook-messenger-clone/static/js/787.8a5f59be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58eb0d7.css",
+    "static/js/main.2565dc8b.js"
+  ]
+}
